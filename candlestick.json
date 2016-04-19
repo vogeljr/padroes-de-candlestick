@@ -1,0 +1,65 @@
+[
+  {
+    "Name":{
+      "pt_br": "Martelo",
+      "en": "Hammer",
+      "jp": "Takuri"
+    },
+    "Category": {
+      "pt_br": "Padões Altista",
+      "en": "",
+      "jp": ""
+    },
+    "Candles":{
+        "bar-01":{
+          "Data": "",
+          "Low": "100",
+          "Open": "0",
+          "Close": "0",
+          "high": "200"
+        },
+        "bar-02":{
+          "Data": "",
+          "Low": "80",
+          "Open": "0",
+          "Close": "0",
+          "high": "180"
+        },
+        "bar-03":{
+          "Data": "",
+          "Low": "50",
+          "Open": "0",
+          "Close": "0",
+          "high": "150"
+        },
+        "bar-04":{
+          "Data": "",
+          "Low": "0",
+          "Open": "67",
+          "Close": "49",
+          "high": "50"
+        },
+        "bar-05":{
+          "Data": "",
+          "Low": "50",
+          "Open": "0",
+          "Close": "0",
+          "high": "150"
+        },
+        "bar-06":{
+          "Data": "",
+          "Low": "80",
+          "Open": "0",
+          "Close": "0",
+          "high": "180"
+        },
+        "bar-07":{
+          "Data": "",
+          "Low": "100",
+          "Open": "0",
+          "Close": "0",
+          "high": "200"
+        }
+    }
+  }
+]
